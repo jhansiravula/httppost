@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "firstname": "fristname 3",
+      "lastname": "lastname 3",
+      "email": "abc@example.com",
+      "password": "password",
+      "id": 3
+    },
+    {
+      "firstname": "fristname 4",
+      "lastname": "lastname 4",
+      "email": "abc@example.com",
+      "password": "password",
+      "id": 4
+    },
+    {
+      "firstname": "fristname 5",
+      "lastname": "lastname 5",
+      "email": "abc@example.com",
+      "password": "password",
+      "id": 5
+    },
+    {
+      "firstname": "fristname 6",
+      "lastname": "lastname 6",
+      "email": "abc@example.com",
+      "password": "password",
+      "id": 6
+    },
+    {
+      "firstname": "fristname 7",
+      "lastname": "lastname 7",
+      "email": "abc@example.com",
+      "password": "password",
+      "id": 7
+    },
+    {
+      "firstname": "jhansi",
+      "lastname": "jhansi",
+      "email": "12345@gmail.com",
+      "password": "1234556879",
+      "id": 8
+    },
+    {
+      "firstname": "abc",
+      "lastname": "lastname 1",
+      "email": "abc@example.com",
+      "password": "password",
+      "id": 9
+    },
+    {
+      "firstname": "abc",
+      "lastname": "efg",
+      "email": "abc@example.com",
+      "password": "password",
+      "id": 10
+    },
+    {
+      "firstname": "abc",
+      "lastname": "efg",
+      "email": "abcefg@example.com",
+      "password": "passwordfkj",
+      "id": 11
+    },
+    {
+      "firstname": "fristname 1",
+      "lastname": "lastname 1",
+      "email": "abc@example.com",
+      "password": "password",
+      "id": 12
+    }
+  ]
+}
