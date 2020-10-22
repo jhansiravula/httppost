@@ -9,6 +9,7 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { CommitsapiComponent } from './commitsapi/commitsapi.component';
 
 
+
 @NgModule({
   declarations: [
     AppComponent,

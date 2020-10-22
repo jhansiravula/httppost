@@ -1,4 +1,6 @@
 import { Component, OnInit } from '@angular/core';
+import { HttpClient } from '@angular/common/http';
+
 
 @Component({
   selector: 'app-commitsapi',
@@ -6,10 +8,15 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./commitsapi.component.css']
 })
 export class CommitsapiComponent implements OnInit {
+  commitdata=[];
 
-  constructor() { }
+  constructor(private http: HttpClient) { }
 
-  ngOnInit(): void {
+  ngOnInit(){
+
+    this.http.get('https://api.github.com/repositories/19438/commits',)
+      .subscribe((res: any) => {
+        this.commitdata = res;
+      })
   }
-
 }
